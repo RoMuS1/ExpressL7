@@ -1,0 +1,29 @@
+{
+  "soldiers": [
+    {
+      "id": "2f1c0a74-b228-4cc9-8d20-c3df1130e1c9",
+      "name": "Солдат1",
+      "age": 28,
+      "active": true,
+      "rank": "сержант",
+      "enlistmentDate": "30.04.2025, 10:26:17",
+      "skills": [
+        "скрытность",
+        "стратегия"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "existing-unit-001",
+      "name": "1 пехота",
+      "headCount": 300,
+      "isDeployed": false,
+      "formationDate": "07/15/2020 10:00:00 AM",
+      "operations": [
+        "кобра",
+        "потато"
+      ]
+    }
+  ]
+}
